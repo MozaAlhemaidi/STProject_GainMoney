@@ -1,0 +1,23 @@
+{
+  "Companies": [
+    {
+      "title": "H&M",
+      "Company_info": "stringCompany_info\": \"Founded in Sweden in 1947, H&M has grown through offering fashion and quality at the best price to over 3,000 stores in 53 markets today, making it a truly global fashion company. H&M's presence can be felt on the high streets of Europe, Asia, North America, Middle East & North Africa. The MENA region currently covers 10 countries and 83 stores and is still growing.H&M is an ever evolving brand that offers a broad and varied range of fashions for the entire family. Our collections are extensive with new items arriving in store everyday offering our customers change and choice every time they visit. This is an exciting and fast paced environment requiring energetic individuals with a passion for fashion and customer service.",
+      "Content_info": "M.H.Alshaya Co.\nPepsi Cola Street\nBehind Mercedes Showroom\nShuwaikh- Kuwait\nP.O.Box 181 Safat- 13002\nKuwait\nTel: +965 224 2115",
+      "NumberOfBranch": 2,
+      "Branch_LO_LA": [
+        [
+          51.46584034,
+          25.33374759,
+          "Opening hoursMon\nSat to Thu : 9:00 AM to 10:00 PM\nFri : 1:30 PM to 10:00 PM \nAddress\nDoha Expressway\nDoha\nQatar\ntel:+974-66509216"
+        ],
+        [
+          51.44361019,
+          25.25956184,
+          "Opening hoursMon\nSat to Thu : 9:00 AM to 10:00 PM\nFri : 1:30 PM to 10:00 PM \nAddress\nVillagio\nAL Waab Street\nDoha Doha\nQatar\ntel:+974-4507330"
+        ]
+      ]
+    }
+    
+  ]
+}
